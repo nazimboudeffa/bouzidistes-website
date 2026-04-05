@@ -145,7 +145,7 @@ HTML files affected: 32
 - bouzid_pour_lulu.png
 
 ## paypal.html
-- images/50pages.png DONE
+- [x] images/50pages.png DONE
 
 ## slim\vote\vote.htm
 - fis2.gif
